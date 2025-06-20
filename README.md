@@ -1,6 +1,6 @@
 # Perfume Recommender System
 향수 취향에 맞는 제품을 추천해주는 하이브리드 추천 시스템입니다.
-**향수 노트(TOP, MIDDLE, BASE)**와 **설명(description)**을 기반으로 한 콘텐츠 기반 필터링(Content-Based Filtering)과
+**향수 노트(TOP, MIDDLE, BASE)** 와 **설명(description)** 을 기반으로 한 콘텐츠 기반 필터링(Content-Based Filtering)과
 사용자 간 유사도를 활용한 협업 필터링(Collaborative Filtering)을 결합하여 정교한 추천을 제공합니다.
 
 <br/>
